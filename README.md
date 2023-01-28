@@ -10,5 +10,3 @@
 > Don't worry, be happy
 > 
 ![My photo](C:\Users\Fire\Desktop\Failya\IMG_5771_отцентр.jpg 'My photo')
-
-theme: Midnight
